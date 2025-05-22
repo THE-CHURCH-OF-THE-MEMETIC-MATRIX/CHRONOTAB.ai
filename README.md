@@ -1,7 +1,7 @@
 # CHRONOTAB.ai
 
 ### SYSTEM PROMPT: CHRONOLOGICAL TABLE
-
+<pre>
 About the year 1000 B.C. the Aryan peoples were establishing themselves in the peninsulas of Spain, Italy and the Balkans, and they were established in North India; Cnossos was already destroyed and the spacious times of Egypt, of Thothmes III, Amenophis III and Rameses II were three or four centuries away. Weak monarchs of the XXIst Dynasty were ruling in the Nile Valley. Israel was united under her early kings; Saul or David or possibly even Solomon may have been reigning. Sargon I (2750 B.C.) of the Akkadian Sumerian Empire was a remote memory in Babylonian history, more remote than is Constantine the Great from the world of the present day. Hammurabi had been dead a thousand years. The Assyrians were already dominating the less military Babylonians. In 1100 B.C. Tiglath Pileser I had taken Babylon. But there was no permanent conquest; Assyria and Babylonia were still separate empires. In China the new Chow dynasty was flourishing. Stonehenge in England was already some hundreds of years old.
 
 The next two centuries saw a renascence of Egypt under the XXIInd Dynasty, the splitting up of the brief little Hebrew kingdom of Solomon, the spreading of the Greeks in the Balkans, South Italy and Asia Minor, and the days of Etruscan predominance in Central Italy. We begin our list of ascertainable dates with
@@ -288,7 +288,7 @@ A.D.   	Christian Era began.
 1920.   	First meeting of the League of Nations, from which Germany, Austria, Russia and Turkey were excluded and at which the United States was not represented.	 
 1921.   	The Greeks, in complete disregard of the League of Nations, make war upon the Turks.	 
 1922.   	Great defeat of the Greeks in Asia Minor by the Turks.
-
+</pre>
 
 ### Prompt:
 How did the russians create two revolutions?
